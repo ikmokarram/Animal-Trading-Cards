@@ -3,12 +3,4 @@
 ### Overview
 This project is homework for Nanodegree Front-End Web Developer, Project 2 Animal Trading Cards.
 
-### Concepts Taught and Used
-1. Turtles have been around for over 200 million years
-2. Scientific Name: Testudines
-3. Largest Turtle: Leatherback Turtle
-4. Average Lifespan: 10-80 years
-5. Habitat:  Almost everywhere
- 
-Turtles can be found just about everywhere. From the dryest places(deserts) to the wettest(oceans). They have been around for over 200 million years even longer than snakes and alligators. The smallest turtle are about 3-4 inches in length and the largest one that was found was around 3 meters.
-
+The lion is a well-muscled cat with a long body, large head, and short legs. Size and appearance vary considerably between the sexes. The male's outstanding characteristic is his mane, which varies between different individuals and populations.The lion is a species in the family Felidae and a member of the genus Panthera. It is most recognisable for its muscular, deep-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail. It is sexually dimorphic; adult male lions have a prominent mane.
