@@ -1,39 +1,10 @@
-/* add your CSS here */
-body{
-	font: gray;
-}
-ul{
-	padding: 0;
-}
-li{
-	list-style: none;
-	margin: 0;
-	padding-right: 0;
-}
+.content { width: 300px;
+      padding: 20px;
+      border-style: ridge;
+      box-shadow:10px 10px 5px 0px rgba(217,210,217,1);}
+.style {border-style:ridge;
+        padding: 10px}
 
-img{
-	height:100%;
-	width:100%;
-}
-
-div{
-	padding:1%;
-}
-.borders{
-	border: 1px solid grey;
-	box-shadow: 2px 5px #C0C0C0;
-}
-
-.center{
-	text-align: left;
-	margin-left: 30%;
-	margin-right: 30%;
-}
-
-.if{
-	font-style: italic;
-}
-
-.lab{
-	font-weight: bold;
-}
+.list { list-style: none;}
+.fact {font-weight: bold;}
+.interesting{font-style: italic;}
